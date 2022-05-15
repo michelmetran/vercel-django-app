@@ -9,3 +9,18 @@ Inicialmente me basei no seguinte tutorial [GitHub: Django running on Vercel](ht
 Notei que outros reportaram o problema e foi sugerida uma solução!  
 1. [Vercel CLI Pyhon version issue when deploying Django project](https://stackoverflow.com/questions/71640303/vercel-cli-pyhon-version-issue-when-deploying-django-project)
 2. [How to deploy a django project with staticfiles on vercel](https://www.devmaesters.com/blog/15) 
+
+<br>
+
+-----
+
+### Deploy via GitHub
+
+Basta dar o *push* e conectar o repositório que está ok!
+
+<br>
+
+-----
+
+### Deploy via Vercel
+
