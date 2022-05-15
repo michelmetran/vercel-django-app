@@ -1,5 +1,6 @@
 # Lixos
 _lixos/
+.vercel/
 
 # IDEs
 .idea/
@@ -134,3 +135,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vercel
